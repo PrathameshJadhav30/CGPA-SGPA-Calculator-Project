@@ -12,4 +12,12 @@ This is a web-based CGPA (Cumulative Grade Point Average) and SGPA (Semester Gra
 - CSS: For styling the calculator and making it visually appealing.
 - JavaScript: For performing the logic and calculations of CGPA and SGPA.
 
+    ## Contact
+
+If you have any questions, suggestions, or just want to connect, feel free to reach out!
+
+- **Email**: prathameshaj2004@gmail.com
+- **LinkedIn**: www.linkedin.com/in/prathamesh-jadhav30
+- Thank you for visiting my repository. Happy coding!
+
   
